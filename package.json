@@ -1,5 +1,5 @@
 {
-  "name": "coffee-stores-next-app",
+  "name": "coffee-shops-next-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
